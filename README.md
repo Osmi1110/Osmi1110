@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Osmi! 👋
 
-<!--
-**Osmi1110/Osmi1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT undergraduate at the Open University of Sri Lanka.
 
-Here are some ideas to get you started:
+I'm interested in software development and enjoy learning how things work through programming. I have been learning Java, OOP, data structures, SQL and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Java
+- SQL / MySQL
+- HTML & CSS
+- Prolog
+- Object-Oriented Programming
+- Data Structures and Algorithms
+
+### Projects
+- Point of Sale System (Java & MySQL) – In progress
+- Tuition Class Management System – (Java and MySQL) (planned)
+
+### Currently Learning
+- Advanced Java
+- JavaScript
+- Git and GitHub
+
+### Interests
+- Software Development
+- Problem Solving
+- Application Development
+
